@@ -1,0 +1,2 @@
+action_controller:costmap_3d:exporturdf:prueba2
+-DCATKIN_DEVEL_PREFIX=/home/andrei/Finalproyect/devel -DCMAKE_INSTALL_PREFIX=/home/andrei/Finalproyect/install -G Unix Makefiles

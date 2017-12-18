@@ -1,0 +1,10 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: hector_quadrotor_urdf
+    relative_path: urdf/quadrotore.urdf
+  SRDF:
+    relative_path: config/quadrotor.srdf
+  CONFIG:
+    author_name: adfa
+    author_email: asdffasd@afad.com
+    generated_timestamp: 1513304502

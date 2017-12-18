@@ -1,0 +1,8 @@
+prefix=/home/andrei/Finalproyect/install
+
+Name: exporturdf
+Description: Description of exporturdf
+Version: 1.0.0
+Cflags: 
+Libs: -L/home/andrei/Finalproyect/install/lib 
+Requires: 

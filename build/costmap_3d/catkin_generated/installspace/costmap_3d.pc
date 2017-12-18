@@ -1,0 +1,8 @@
+prefix=/home/andrei/Finalproyect/install
+
+Name: costmap_3d
+Description: Description of costmap_3d
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/andrei/Finalproyect/install/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/andrei/Finalproyect/install
+
+Name: prueba2
+Description: Description of prueba2
+Version: 0.3.0
+Cflags: 
+Libs: -L/home/andrei/Finalproyect/install/lib 
+Requires: 
