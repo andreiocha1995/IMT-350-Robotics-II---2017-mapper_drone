@@ -1,7 +1,7 @@
 # IMT-350-Robotics-II---2017-mapper_drone
 Universidad Catolica Boliviana de "San Pablo"
 # Instructor: Ing.Pinaya Gutierrez Benjamin
-# Developers Paniagua Marco Antonio,Rocha Eduardo Andrei
+# Developer Rocha Eduardo Andrei
 
 This is a project of a drone capable of mapping its environment, using sensors Kinetic for making the cloud_point, and a camera.
 first, we desing a structure with SolidWroks for the body of the drone, solid exported the file to URDf file; so that way we to work with
